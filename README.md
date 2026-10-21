@@ -8,3 +8,6 @@ O que foi praticado:
 *Navegação Estática: Implementação de links internos (<a>) simulando um menu de navegação (Home, Produtos, Contato).
 *Marcação e Imagens: Uso do elemento <figure> acompanhado de <figcaption> para associar legendas descritivas às imagens exibidas na página.
 *Hierarquia de Títulos: Aplicação dos níveis de títulos (<h1>, <h2>) para organização da informação.
+
+
+
